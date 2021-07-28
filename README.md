@@ -20,7 +20,7 @@
 
 
 
-### Features:
+## Database:
 ![CMS](https://github.com/ArsecTech/Asp.net_CMS/blob/master/ScreanShot/DB.PNG "DB")
 ![CMS](https://github.com/ArsecTech/Asp.net_CMS/blob/master/ScreanShot/AdminLoginDB.png "AdminDB")
 ![CMS](https://github.com/ArsecTech/Asp.net_CMS/blob/master/ScreanShot/PageCommentsDB.PNG "PageCommentsDB")
