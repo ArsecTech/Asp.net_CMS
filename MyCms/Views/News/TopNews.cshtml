@@ -1,0 +1,16 @@
+﻿@model IEnumerable<DataLayer.Page>
+
+
+<section class="last-news-side border-radius">
+    <header><i class="icons icon-star"></i> <h3> پربازدیدترین اخبار </h3></header>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>
+                <img class="border-radius" src="~/PageImages/@item.ImageName">
+                <h2> <a href="/News/@item.PageID">@item.Title</a></h2>
+                <span>انتشار : @item.CreatDate.ToShamsi()</span>
+            </li>
+        }
+    </ul>
+</section>

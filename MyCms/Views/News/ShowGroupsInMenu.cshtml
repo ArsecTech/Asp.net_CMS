@@ -1,0 +1,9 @@
+﻿@model IEnumerable<DataLayer.PageGroup>
+
+<span>گروه های خبری</span>
+<ul  style="background-color:sandybrown">
+    @foreach (var item in Model)
+    {
+        <li><a href="/Group/@item.GroupID/@item.GroupTitle">@item.GroupTitle</a></li>
+    }
+</ul>

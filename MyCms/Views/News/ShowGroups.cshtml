@@ -1,0 +1,13 @@
+﻿@model IEnumerable<DataLayer.ShowGroupViewModel>
+
+
+<section class="category-section border-radius">
+    <header><i class="fa fa-folder-open-o"></i> <h3> دسته بندی ها </h3></header>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li><a href="/Group/@item.GroupID/@item.GroupTitle"> @item.GroupTitle  <span>@item.PageCount</span></a></li>
+        }
+    </ul>
+</section>
+
