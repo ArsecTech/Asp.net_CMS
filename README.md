@@ -21,8 +21,8 @@
 
 
 ## Database:
-![CMS](https://github.com/ArsecTech/Asp.net_CMS/blob/master/ScreanShot/DB.PNG "DB")
-![CMS](https://github.com/ArsecTech/Asp.net_CMS/blob/master/ScreanShot/AdminLoginDB.png "AdminDB")
-![CMS](https://github.com/ArsecTech/Asp.net_CMS/blob/master/ScreanShot/PageCommentsDB.PNG "PageCommentsDB")
-![CMS](https://github.com/ArsecTech/Asp.net_CMS/blob/master/ScreanShot/PageGroupsDB.png "PageGroupsDB")
-![CMS](https://github.com/ArsecTech/Asp.net_CMS/blob/master/ScreanShot/PagesDB.PNG "PagesDB")
+![CMS](https://github.com/ArsecTech/Asp.net_CMS/blob/master/ScreenShot/DB.PNG "DB")
+![CMS](https://github.com/ArsecTech/Asp.net_CMS/blob/master/ScreenShot/AdminLoginDB.png "AdminDB")
+![CMS](https://github.com/ArsecTech/Asp.net_CMS/blob/master/ScreenShot/PageCommentsDB.PNG "PageCommentsDB")
+![CMS](https://github.com/ArsecTech/Asp.net_CMS/blob/master/ScreenShot/PageGroupsDB.png "PageGroupsDB")
+![CMS](https://github.com/ArsecTech/Asp.net_CMS/blob/master/ScreenShot/PagesDB.PNG "PagesDB")
